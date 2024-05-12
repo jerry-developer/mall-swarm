@@ -184,7 +184,7 @@ mall
 
 加微信群交流，关注公众号「**macrozheng**」，回复「**加群**」即可。
 
-# ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
+// ![公众号图片](http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/banner/qrcode_for_macrozheng_258.jpg)
 
 ## 许可证
 
